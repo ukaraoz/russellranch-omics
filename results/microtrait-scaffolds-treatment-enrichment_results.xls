@@ -1,0 +1,433 @@
+trait	depth	n_scaffoldswtrait	n_scaffoldswtraitfromdepth	select.significant	plevel_LMTperc.vs.CMTperc	plevel_LMToddperc.vs.CMToddperc	plevel_LMTevenperc.vs.CMTevenperc	plevel_OMTperc.vs.CMTperc	plevel_OMToddperc.vs.CMToddperc	plevel_OMTevenperc.vs.CMTevenperc	estimate_LMTperc.vs.CMTperc	estimate_LMToddperc.vs.CMToddperc	estimate_LMTevenperc.vs.CMTevenperc	estimate_OMTperc.vs.CMTperc	estimate_OMToddperc.vs.CMToddperc	estimate_OMTevenperc.vs.CMTevenperc
+Biosynthesis: PRPP	0-15	1183	138	0	NS	NS	NS	NS	NS	NS	+	+	+	-	-	+
+Biosynthesis: PRPP	15-30	1183	199	1	NS	*	NS	***	***	NS	-	-	+	-	-	-
+Biosynthesis: PRPP	30-60	1183	291	1	**	*	NS	***	***	NS	-	-	-	-	-	-
+Biosynthesis: PRPP	60-100	1183	555	1	*	****	****	***	****	*	-	-	+	-	-	+
+CO2 Fixation: 3hpb Pathway	0-15	7	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+CO2 Fixation: 3hpb Pathway	15-30	7	3	0	NS	NS	NS	NS	NS	NS	-	-	-	+	+	+
+CO2 Fixation: 3hpb Pathway	30-60	7	1	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+CO2 Fixation: 3hpb Pathway	60-100	7	3	0	NS	NS	NS	NS	NS	NS	+	-	+	-	-	-
+CO2 Fixation: Carboxysome	0-15	343	40	0	NS	NS	NS	*	NS	*	-	+	-	-	-	-
+CO2 Fixation: Carboxysome	15-30	343	67	0	*	NS	NS	**	NS	**	-	-	-	-	-	-
+CO2 Fixation: Carboxysome	30-60	343	53	0	*	*	NS	*	NS	NS	-	-	+	-	-	-
+CO2 Fixation: Carboxysome	60-100	343	183	1	**	****	***	****	****	NS	-	-	+	-	-	+
+Degradation: fructose	0-15	3674	480	0	NS	NS	NS	NS	NS	NS	-	-	+	+	-	+
+Degradation: fructose	15-30	3674	513	1	NS	***	NS	****	****	****	-	-	+	-	-	-
+Degradation: fructose	30-60	3674	870	1	**	**	***	****	****	*	-	-	-	-	-	-
+Degradation: fructose	60-100	3674	1811	1	****	****	****	****	****	****	-	-	+	-	-	+
+Degradation: glycerol	0-15	353	64	0	NS	NS	NS	NS	NS	*	-	-	-	-	+	-
+Degradation: glycerol	15-30	353	45	0	NS	NS	NS	NS	NS	NS	+	+	+	-	-	-
+Degradation: glycerol	30-60	353	84	0	NS	NS	NS	**	*	NS	-	+	-	-	-	-
+Degradation: glycerol	60-100	353	160	0	*	****	NS	NS	****	NS	-	-	+	-	-	-
+Degradation: maltose	0-15	424	51	0	*	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Degradation: maltose	15-30	424	80	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Degradation: maltose	30-60	424	80	0	**	**	NS	*	*	NS	-	-	+	-	-	-
+Degradation: maltose	60-100	424	213	0	NS	****	****	**	****	NS	-	-	+	-	-	-
+Degradation: mannose	0-15	1104	129	0	NS	*	*	NS	NS	**	+	-	+	+	-	+
+Degradation: mannose	15-30	1104	108	0	NS	NS	*	*	**	NS	+	-	+	-	-	-
+Degradation: mannose	30-60	1104	252	0	NS	NS	***	NS	*	NS	+	-	-	-	-	+
+Degradation: mannose	60-100	1104	615	1	****	****	**	****	****	**	-	-	+	-	-	+
+Degradation: resorcinol	0-15	262	30	0	NS	NS	NS	NS	NS	NS	+	-	-	-	+	-
+Degradation: resorcinol	15-30	262	42	0	*	NS	NS	NS	NS	NS	-	-	+	-	+	-
+Degradation: resorcinol	30-60	262	43	0	*	NS	NS	NS	NS	NS	-	-	-	-	+	+
+Degradation: resorcinol	60-100	262	147	1	**	****	****	***	****	**	-	-	+	-	-	+
+Degradation: trehalose	0-15	1465	221	1	****	NS	***	NS	NS	NS	-	-	-	-	-	-
+Degradation: trehalose	15-30	1465	234	0	NS	*	NS	NS	**	NS	+	-	+	+	-	+
+Degradation: trehalose	30-60	1465	369	1	***	****	NS	***	****	NS	-	-	+	-	-	+
+Degradation: trehalose	60-100	1465	641	1	****	****	****	****	****	NS	-	-	+	-	-	+
+Energy Generation:  aETC nuo	0-15	19	4	0	NS	NS	NS	NS	NS	NS	+	+	+	+	-	+
+Energy Generation:  aETC nuo	15-30	19	1	0	NS	NS	NS	NS	NS	NS	-	-	-	-	+	-
+Energy Generation:  aETC nuo	30-60	19	5	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation:  aETC nuo	60-100	19	9	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Energy Generation:  ATP Synthase F type	0-15	38	5	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Energy Generation:  ATP Synthase F type	15-30	38	5	0	NS	NS	NS	NS	NS	NS	-	+	-	-	-	-
+Energy Generation:  ATP Synthase F type	30-60	38	7	0	NS	NS	NS	NS	NS	NS	+	+	+	+	+	+
+Energy Generation:  ATP Synthase F type	60-100	38	21	0	NS	*	NS	NS	**	NS	+	-	+	-	-	+
+Energy Generation:  ATP Synthase VA type	0-15	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation:  ATP Synthase VA type	15-30	1	1	0	NS	NS	NS	NS	NS	NS	-	-	-	-	+	-
+Energy Generation:  ATP Synthase VA type	30-60	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation:  ATP Synthase VA type	60-100	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation:  DMSO Reduction	0-15	290	27	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation:  DMSO Reduction	15-30	290	50	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Energy Generation:  DMSO Reduction	30-60	290	70	0	NS	*	NS	NS	NS	NS	-	-	+	-	-	+
+Energy Generation:  DMSO Reduction	60-100	290	143	0	NS	****	****	NS	****	NS	+	-	+	-	-	+
+Energy Generation:  DMSP Reduction	0-15	103	18	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation:  DMSP Reduction	15-30	103	18	0	NS	NS	NS	NS	NS	NS	+	-	+	+	-	+
+Energy Generation:  DMSP Reduction	30-60	103	29	0	NS	NS	NS	NS	NS	NS	+	+	-	-	-	-
+Energy Generation:  DMSP Reduction	60-100	103	38	0	NS	**	*	NS	**	NS	-	-	+	+	-	+
+Energy Generation:  ETC Complex I	0-15	19	4	0	NS	NS	NS	NS	NS	NS	+	+	+	+	-	+
+Energy Generation:  ETC Complex I	15-30	19	1	0	NS	NS	NS	NS	NS	NS	-	-	-	-	+	-
+Energy Generation:  ETC Complex I	30-60	19	5	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation:  ETC Complex I	60-100	19	9	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Energy Generation:  ETC Complex II	0-15	9662	1241	0	NS	****	**	NS	****	***	+	-	+	-	-	+
+Energy Generation:  ETC Complex II	15-30	9662	1100	1	NS	****	**	****	****	****	-	-	+	-	-	-
+Energy Generation:  ETC Complex II	30-60	9662	2172	1	****	***	****	****	****	*	+	-	-	-	-	-
+Energy Generation:  ETC Complex II	60-100	9662	5149	1	****	****	****	****	****	****	-	-	+	-	-	+
+Energy Generation:  ETC Complex III	0-15	34	3	0	NS	NS	NS	NS	NS	NS	-	+	-	+	+	+
+Energy Generation:  ETC Complex III	15-30	34	10	0	NS	NS	NS	*	NS	NS	-	-	+	-	-	-
+Energy Generation:  ETC Complex III	30-60	34	7	0	*	*	NS	*	NS	NS	-	-	+	-	-	-
+Energy Generation:  ETC Complex III	60-100	34	14	0	NS	NS	***	NS	NS	NS	+	-	+	-	-	+
+Energy Generation:  ETC Complex IV	0-15	234	32	0	NS	NS	NS	NS	**	NS	-	-	+	-	-	+
+Energy Generation:  ETC Complex IV	15-30	234	42	0	NS	NS	NS	**	NS	*	-	-	-	-	-	-
+Energy Generation:  ETC Complex IV	30-60	234	57	0	NS	NS	NS	NS	*	NS	-	-	+	-	-	+
+Energy Generation:  ETC Complex IV	60-100	234	103	0	NS	****	**	NS	****	**	-	-	+	-	-	+
+Energy Generation:  Methylotrophic from dimethylamine	0-15	360	44	0	NS	NS	NS	NS	NS	NS	-	+	-	-	-	-
+Energy Generation:  Methylotrophic from dimethylamine	15-30	360	80	0	NS	NS	NS	**	**	NS	+	+	+	-	-	-
+Energy Generation:  Methylotrophic from dimethylamine	30-60	360	82	1	***	****	NS	***	****	NS	-	-	-	-	-	+
+Energy Generation:  Methylotrophic from dimethylamine	60-100	360	154	1	***	****	****	**	****	**	-	-	+	-	-	+
+Energy Generation:  Methylotrophic from methanethiol	0-15	15	4	0	NS	NS	NS	NS	NS	NS	+	-	+	+	+	+
+Energy Generation:  Methylotrophic from methanethiol	15-30	15	3	0	NS	NS	NS	NS	NS	NS	-	+	-	-	-	-
+Energy Generation:  Methylotrophic from methanethiol	30-60	15	5	0	NS	NS	NS	NS	NS	NS	-	-	+	+	+	+
+Energy Generation:  Methylotrophic from methanethiol	60-100	15	3	0	NS	NS	NS	NS	NS	NS	+	-	+	-	-	+
+Energy Generation:  Methylotrophic from methanol	0-15	7	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation:  Methylotrophic from methanol	15-30	7	2	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	+
+Energy Generation:  Methylotrophic from methanol	30-60	7	2	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	+
+Energy Generation:  Methylotrophic from methanol	60-100	7	3	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation:  Methylotrophic from monomethylamine	0-15	76	17	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+Energy Generation:  Methylotrophic from monomethylamine	15-30	76	9	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Energy Generation:  Methylotrophic from monomethylamine	30-60	76	8	0	NS	NS	NS	NS	NS	NS	+	+	-	+	+	-
+Energy Generation:  Methylotrophic from monomethylamine	60-100	76	42	0	NS	****	***	NS	***	**	-	-	+	-	-	+
+Energy Generation:  Methylotrophic from TMAO	0-15	25	3	0	NS	NS	NS	NS	NS	NS	-	+	+	+	+	+
+Energy Generation:  Methylotrophic from TMAO	15-30	25	10	0	NS	NS	NS	NS	NS	NS	-	+	-	-	-	-
+Energy Generation:  Methylotrophic from TMAO	30-60	25	7	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation:  Methylotrophic from TMAO	60-100	25	5	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Energy Generation:  Methylotrophic from trimethylamine	0-15	634	101	0	NS	NS	NS	NS	NS	NS	-	-	+	+	+	+
+Energy Generation:  Methylotrophic from trimethylamine	15-30	634	102	0	NS	NS	NS	*	*	NS	+	-	+	-	-	-
+Energy Generation:  Methylotrophic from trimethylamine	30-60	634	155	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	-
+Energy Generation:  Methylotrophic from trimethylamine	60-100	634	276	0	NS	***	*	NS	**	NS	-	-	+	-	-	+
+Energy Generation:  sulfur Oxidation to sulfite	0-15	9	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation:  sulfur Oxidation to sulfite	15-30	9	4	0	NS	NS	NS	NS	NS	NS	+	+	-	+	+	+
+Energy Generation:  sulfur Oxidation to sulfite	30-60	9	1	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Energy Generation:  sulfur Oxidation to sulfite	60-100	9	4	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Energy Generation:  tetrathionate reduction	0-15	471	50	0	**	*	NS	NS	*	NS	-	-	-	-	-	+
+Energy Generation:  tetrathionate reduction	15-30	471	90	0	*	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation:  tetrathionate reduction	30-60	471	108	0	*	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Energy Generation:  tetrathionate reduction	60-100	471	223	1	*	****	****	***	****	NS	-	-	+	-	-	-
+Energy Generation:  thiosulfate Oxidation	0-15	557	67	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Energy Generation:  thiosulfate Oxidation	15-30	557	146	1	***	NS	NS	****	NS	***	-	-	-	-	-	-
+Energy Generation:  thiosulfate Oxidation	30-60	557	125	1	***	***	NS	**	**	NS	-	-	+	-	-	-
+Energy Generation:  thiosulfate Oxidation	60-100	557	219	1	NS	****	****	***	****	**	+	-	+	-	-	+
+Energy Generation:  thiosulfate Reduction	0-15	678	81	1	**	NS	*	***	****	NS	-	-	-	-	-	-
+Energy Generation:  thiosulfate Reduction	15-30	678	139	1	****	*	NS	****	*	**	-	-	-	-	-	-
+Energy Generation:  thiosulfate Reduction	30-60	678	137	0	NS	NS	NS	NS	NS	NS	-	+	-	+	+	-
+Energy Generation:  thiosulfate Reduction	60-100	678	321	1	**	****	****	****	****	NS	-	-	+	-	-	+
+Energy Generation: Acetoclastic	0-15	4	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation: Acetoclastic	15-30	4	2	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+Energy Generation: Acetoclastic	30-60	4	2	0	NS	NS	NS	NS	NS	NS	+	-	+	-	-	-
+Energy Generation: Acetoclastic	60-100	4	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation: ammonia oxidation to nitrite	0-15	10	1	0	NS	NS	NS	*	NS	NS	-	-	+	+	+	+
+Energy Generation: ammonia oxidation to nitrite	15-30	10	6	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+Energy Generation: ammonia oxidation to nitrite	30-60	10	1	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Energy Generation: ammonia oxidation to nitrite	60-100	10	2	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Energy Generation: Arsenate Reduction	0-15	1175	151	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Energy Generation: Arsenate Reduction	15-30	1175	187	1	**	**	NS	****	**	**	-	-	-	-	-	-
+Energy Generation: Arsenate Reduction	30-60	1175	277	1	**	***	NS	***	****	NS	-	-	-	-	-	-
+Energy Generation: Arsenate Reduction	60-100	1175	560	1	****	****	****	****	****	NS	-	-	+	-	-	+
+Energy Generation: dissimilatory nitrite reduction	0-15	2152	276	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Energy Generation: dissimilatory nitrite reduction	15-30	2152	304	1	NS	*	NS	****	***	**	-	-	-	-	-	-
+Energy Generation: dissimilatory nitrite reduction	30-60	2152	509	0	*	*	*	**	***	NS	-	-	-	-	-	-
+Energy Generation: dissimilatory nitrite reduction	60-100	2152	1063	1	****	****	****	****	****	NS	-	-	+	-	-	-
+Energy Generation: Glyoxylate Cycle	0-15	6114	891	0	**	*	NS	NS	NS	NS	-	-	-	+	-	+
+Energy Generation: Glyoxylate Cycle	15-30	6114	926	1	NS	NS	**	****	****	*	+	-	+	-	-	-
+Energy Generation: Glyoxylate Cycle	30-60	6114	1416	1	****	****	**	****	****	NS	+	-	-	-	-	+
+Energy Generation: Glyoxylate Cycle	60-100	6114	2881	1	****	****	****	****	****	**	-	-	+	+	-	-
+Energy Generation: Hydrogenotrophic from H2/CO2	0-15	8275	971	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation: Hydrogenotrophic from H2/CO2	15-30	8275	823	1	*	*	***	****	****	***	+	-	+	-	-	-
+Energy Generation: Hydrogenotrophic from H2/CO2	30-60	8275	1816	1	***	*	****	****	****	NS	-	-	-	-	-	-
+Energy Generation: Hydrogenotrophic from H2/CO2	60-100	8275	4665	1	****	****	****	****	****	***	-	-	+	-	-	+
+Energy Generation: Inorganic Electron Acceptor: Methanogenesis	0-15	4	2	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Energy Generation: Inorganic Electron Acceptor: Methanogenesis	15-30	4	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Energy Generation: Inorganic Electron Acceptor: Methanogenesis	30-60	4	1	0	NS	NS	NS	NS	NS	NS	-	-	+	+	-	+
+Energy Generation: Inorganic Electron Acceptor: Methanogenesis	60-100	4	1	0	NS	NS	NS	NS	NS	NS	+	+	+	-	+	+
+Energy Generation: Iron Reduction	0-15	223	31	0	NS	NS	NS	*	*	NS	-	-	-	-	-	-
+Energy Generation: Iron Reduction	15-30	223	73	1	**	NS	NS	****	*	***	-	-	-	-	-	-
+Energy Generation: Iron Reduction	30-60	223	40	0	*	**	NS	NS	NS	NS	-	-	+	-	-	-
+Energy Generation: Iron Reduction	60-100	223	79	0	**	****	*	**	***	NS	-	-	+	-	-	-
+Energy Generation: nitrite oxidation	0-15	129	33	0	**	NS	***	*	NS	***	-	-	-	-	+	-
+Energy Generation: nitrite oxidation	15-30	129	18	0	NS	NS	NS	NS	NS	NS	+	+	+	-	-	+
+Energy Generation: nitrite oxidation	30-60	129	21	0	*	*	NS	NS	*	NS	-	-	-	-	-	-
+Energy Generation: nitrite oxidation	60-100	129	57	0	NS	****	****	**	****	NS	+	-	+	-	-	+
+energy generation: Selenate reduction	0-15	46	2	0	NS	NS	NS	NS	NS	NS	+	+	+	-	-	+
+energy generation: Selenate reduction	15-30	46	9	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+energy generation: Selenate reduction	30-60	46	9	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+energy generation: Selenate reduction	60-100	46	26	0	NS	NS	**	NS	NS	NS	+	-	+	-	-	-
+Fermentation: heterolactic	0-15	651	90	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Fermentation: heterolactic	15-30	651	81	0	NS	NS	NS	NS	NS	NS	+	-	+	-	-	+
+Fermentation: heterolactic	30-60	651	163	0	NS	*	NS	**	****	NS	-	-	-	-	-	-
+Fermentation: heterolactic	60-100	651	317	1	***	****	*	****	****	*	-	-	-	-	-	+
+Fermentation: homolactic	0-15	92	14	0	*	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Fermentation: homolactic	15-30	92	24	0	*	**	NS	NS	NS	NS	-	-	-	-	-	-
+Fermentation: homolactic	30-60	92	26	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Fermentation: homolactic	60-100	92	28	0	*	*	NS	**	**	NS	-	-	-	-	-	-
+Fermentation: pyruvate to ethanol	0-15	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Fermentation: pyruvate to ethanol	15-30	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Fermentation: pyruvate to ethanol	30-60	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Fermentation: pyruvate to ethanol	60-100	1	1	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Nutrient Acquisition: formaldehyde Assimilation with serine Pathway	0-15	5892	733	0	NS	NS	NS	*	**	NS	-	-	-	+	-	-
+Nutrient Acquisition: formaldehyde Assimilation with serine Pathway	15-30	5892	919	1	NS	*	NS	****	****	****	-	-	-	-	-	-
+Nutrient Acquisition: formaldehyde Assimilation with serine Pathway	30-60	5892	1343	1	****	****	*	****	****	*	-	-	+	-	-	-
+Nutrient Acquisition: formaldehyde Assimilation with serine Pathway	60-100	5892	2897	1	****	****	****	****	****	*	-	-	+	-	-	+
+Nutrient Acquisition: formaldehyde Oxidation	0-15	896	157	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Nutrient Acquisition: formaldehyde Oxidation	15-30	896	119	0	NS	NS	*	NS	**	NS	+	-	+	-	-	+
+Nutrient Acquisition: formaldehyde Oxidation	30-60	896	185	0	NS	NS	NS	NS	*	NS	-	-	-	-	-	+
+Nutrient Acquisition: formaldehyde Oxidation	60-100	896	435	1	***	****	****	*	****	****	-	-	+	+	-	+
+Nutrient Acquisition: methane Oxidation	0-15	1334	194	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Nutrient Acquisition: methane Oxidation	15-30	1334	181	1	NS	NS	*	****	***	**	+	-	+	-	-	-
+Nutrient Acquisition: methane Oxidation	30-60	1334	311	1	*	**	NS	****	****	NS	-	-	-	-	-	-
+Nutrient Acquisition: methane Oxidation	60-100	1334	648	1	****	****	***	****	****	****	-	-	+	-	-	+
+Nutrient Acquisition: methanol Oxidation	0-15	4045	501	0	*	NS	NS	*	**	NS	-	-	-	-	-	+
+Nutrient Acquisition: methanol Oxidation	15-30	4045	586	0	*	NS	NS	*	NS	NS	-	-	+	-	-	-
+Nutrient Acquisition: methanol Oxidation	30-60	4045	969	1	***	***	**	****	****	NS	-	-	-	-	-	-
+Nutrient Acquisition: methanol Oxidation	60-100	4045	1989	1	****	****	****	****	****	****	-	-	+	-	-	+
+Nutrient Acquisition: PHB Cycle	0-15	3352	453	0	*	NS	*	NS	NS	NS	-	+	-	-	-	+
+Nutrient Acquisition: PHB Cycle	15-30	3352	535	1	NS	*	*	****	****	**	-	-	+	-	-	-
+Nutrient Acquisition: PHB Cycle	30-60	3352	723	1	****	***	*	****	****	NS	-	-	-	-	-	-
+Nutrient Acquisition: PHB Cycle	60-100	3352	1641	1	****	****	****	****	****	****	-	-	+	-	-	+
+Nutrient Acquisition: RuMP Pathway	0-15	390	51	0	NS	NS	NS	NS	NS	**	-	+	-	-	+	-
+Nutrient Acquisition: RuMP Pathway	15-30	390	65	0	NS	NS	NS	*	NS	*	-	-	+	-	-	-
+Nutrient Acquisition: RuMP Pathway	30-60	390	71	0	NS	*	NS	*	*	NS	-	-	-	-	-	-
+Nutrient Acquisition: RuMP Pathway	60-100	390	203	0	NS	****	NS	**	****	NS	+	-	-	-	-	+
+Other: adhesion	0-15	1059	132	1	**	NS	NS	****	***	*	-	-	-	-	-	-
+Other: adhesion	15-30	1059	239	1	****	**	NS	****	**	****	-	-	-	-	-	-
+Other: adhesion	30-60	1059	229	1	****	****	NS	****	****	NS	-	-	-	-	-	-
+Other: adhesion	60-100	1059	459	1	*	****	****	****	****	NS	-	-	+	-	-	-
+Other: chemosensing	0-15	3437	460	0	**	**	NS	*	***	NS	-	-	-	-	-	+
+Other: chemosensing	15-30	3437	606	1	NS	**	NS	****	**	**	-	-	-	-	-	-
+Other: chemosensing	30-60	3437	845	1	*	**	NS	***	****	NS	+	-	+	-	-	-
+Other: chemosensing	60-100	3437	1526	1	****	****	****	****	****	**	-	-	+	-	-	+
+Other: motility	0-15	23	5	0	NS	NS	NS	NS	NS	NS	+	+	+	+	+	+
+Other: motility	15-30	23	2	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+Other: motility	30-60	23	4	0	NS	NS	NS	NS	NS	NS	+	+	+	+	+	+
+Other: motility	60-100	23	12	1	****	**	****	****	NS	****	-	-	-	-	-	-
+Other: secretion: type I	0-15	847	108	1	**	NS	**	****	***	*	-	-	-	-	-	-
+Other: secretion: type I	15-30	847	269	1	***	NS	NS	***	NS	***	-	-	-	-	-	-
+Other: secretion: type I	30-60	847	188	0	**	****	NS	**	**	NS	-	-	+	-	-	-
+Other: secretion: type I	60-100	847	282	1	NS	****	****	****	****	NS	-	-	+	-	-	-
+Other: secretion: type II	0-15	199	23	1	*	NS	NS	***	**	NS	-	-	-	-	-	-
+Other: secretion: type II	15-30	199	53	1	**	NS	NS	****	NS	***	-	-	-	-	-	-
+Other: secretion: type II	30-60	199	35	0	NS	NS	NS	NS	NS	NS	-	-	+	-	+	-
+Other: secretion: type II	60-100	199	88	1	NS	**	****	***	****	NS	+	-	+	-	-	+
+Other: secretion: type III	0-15	39	8	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	+
+Other: secretion: type III	15-30	39	13	0	NS	**	NS	NS	NS	NS	+	+	+	-	+	+
+Other: secretion: type III	30-60	39	11	0	NS	NS	NS	*	NS	NS	-	-	-	-	-	-
+Other: secretion: type III	60-100	39	7	0	NS	***	NS	NS	***	*	-	-	+	-	-	+
+Other: secretion: type IV	0-15	268	36	0	NS	NS	NS	NS	NS	NS	-	-	+	+	-	+
+Other: secretion: type IV	15-30	268	52	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Other: secretion: type IV	30-60	268	64	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Other: secretion: type IV	60-100	268	116	0	NS	**	***	NS	*	NS	+	-	+	-	-	-
+Other: secretion: type V	0-15	48	7	0	NS	NS	NS	NS	NS	NS	-	-	-	-	+	-
+Other: secretion: type V	15-30	48	6	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Other: secretion: type V	30-60	48	10	0	NS	NS	NS	NS	NS	NS	-	+	-	+	+	+
+Other: secretion: type V	60-100	48	25	0	NS	**	**	*	***	NS	-	-	+	-	-	-
+Other: secretion: type VI	0-15	368	50	0	NS	NS	NS	NS	*	NS	-	-	-	-	-	-
+Other: secretion: type VI	15-30	368	85	1	*	**	NS	****	**	**	-	-	+	-	-	-
+Other: secretion: type VI	30-60	368	88	0	NS	*	NS	**	***	NS	-	-	-	-	-	-
+Other: secretion: type VI	60-100	368	145	0	*	****	NS	*	****	NS	-	-	+	-	-	-
+Resource Acquisition: Extracellular Enzyme: cellulose	0-15	5027	709	1	***	**	NS	**	***	NS	-	-	+	-	-	+
+Resource Acquisition: Extracellular Enzyme: cellulose	15-30	5027	832	1	**	**	NS	****	*	***	-	-	+	-	-	-
+Resource Acquisition: Extracellular Enzyme: cellulose	30-60	5027	1116	1	****	****	****	****	****	NS	+	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: cellulose	60-100	5027	2370	1	****	****	****	****	****	**	-	-	+	-	-	+
+Resource Acquisition: Extracellular Enzyme: chitin	0-15	4518	667	0	**	***	NS	**	****	NS	-	-	-	+	-	+
+Resource Acquisition: Extracellular Enzyme: chitin	15-30	4518	787	1	***	*	NS	****	*	****	-	-	+	-	-	-
+Resource Acquisition: Extracellular Enzyme: chitin	30-60	4518	956	1	****	****	*	****	****	NS	-	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: chitin	60-100	4518	2108	1	****	****	****	****	****	****	-	-	+	-	-	+
+Resource Acquisition: Extracellular Enzyme: heteromannan	0-15	2710	390	0	*	NS	NS	*	NS	NS	-	-	-	-	-	+
+Resource Acquisition: Extracellular Enzyme: heteromannan	15-30	2710	399	1	NS	*	*	****	**	*	-	-	+	-	-	-
+Resource Acquisition: Extracellular Enzyme: heteromannan	30-60	2710	622	1	****	***	****	****	****	*	-	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: heteromannan	60-100	2710	1299	1	****	****	****	****	****	NS	-	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: mixed linkage glucan	0-15	3166	450	0	*	NS	NS	*	*	NS	-	-	-	-	-	+
+Resource Acquisition: Extracellular Enzyme: mixed linkage glucan	15-30	3166	487	1	NS	*	*	***	*	*	-	-	+	-	-	-
+Resource Acquisition: Extracellular Enzyme: mixed linkage glucan	30-60	3166	709	1	****	****	****	****	****	*	-	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: mixed linkage glucan	60-100	3166	1520	1	****	****	****	****	****	NS	-	-	+	-	-	+
+Resource Acquisition: Extracellular Enzyme: xylan and heteroxylan	0-15	6285	882	1	***	**	NS	***	***	NS	-	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: xylan and heteroxylan	15-30	6285	1018	1	***	***	NS	****	*	****	-	-	+	-	-	-
+Resource Acquisition: Extracellular Enzyme: xylan and heteroxylan	30-60	6285	1447	1	****	****	****	****	****	*	-	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: xylan and heteroxylan	60-100	6285	2938	1	****	****	****	****	****	*	-	-	+	-	-	+
+Resource Acquisition: Extracellular Enzyme: xyloglucan	0-15	2162	271	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Resource Acquisition: Extracellular Enzyme: xyloglucan	15-30	2162	390	1	*	***	NS	***	*	NS	-	-	+	-	-	-
+Resource Acquisition: Extracellular Enzyme: xyloglucan	30-60	2162	456	1	****	****	NS	***	****	NS	-	-	-	-	-	-
+Resource Acquisition: Extracellular Enzyme: xyloglucan	60-100	2162	1045	1	****	****	****	****	****	***	-	-	+	+	-	+
+Resource Acquisition: Transport: amino acid	0-15	15344	1988	1	****	***	*	**	**	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: amino acid	15-30	15344	2219	1	****	****	*	****	****	****	-	-	+	-	-	-
+Resource Acquisition: Transport: amino acid	30-60	15344	3282	1	****	***	**	****	****	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: amino acid	60-100	15344	7855	1	****	****	****	****	****	****	-	-	+	-	-	+
+Resource Acquisition: Transport: aromatic acid	0-15	87	6	0	NS	NS	NS	NS	NS	*	+	+	+	+	+	+
+Resource Acquisition: Transport: aromatic acid	15-30	87	9	0	NS	NS	NS	*	NS	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: aromatic acid	30-60	87	12	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: aromatic acid	60-100	87	60	0	NS	**	*	NS	NS	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: biopolymer	0-15	489	60	1	NS	NS	NS	****	***	NS	-	+	-	-	-	-
+Resource Acquisition: Transport: biopolymer	15-30	489	157	1	**	NS	NS	****	NS	****	-	-	-	-	-	-
+Resource Acquisition: Transport: biopolymer	30-60	489	106	0	**	****	*	**	***	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: biopolymer	60-100	489	166	1	NS	****	****	****	****	NS	+	-	+	-	-	-
+Resource Acquisition: Transport: carbohydrate:amino sugar	0-15	272	42	0	NS	NS	NS	NS	NS	NS	-	-	-	+	+	+
+Resource Acquisition: Transport: carbohydrate:amino sugar	15-30	272	33	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: carbohydrate:amino sugar	30-60	272	49	0	NS	NS	NS	NS	NS	NS	+	+	-	-	-	-
+Resource Acquisition: Transport: carbohydrate:amino sugar	60-100	272	148	0	**	****	****	**	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:carbohydrate acid	0-15	147	36	0	NS	NS	NS	NS	NS	NS	-	-	-	+	+	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate acid	15-30	147	29	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate acid	30-60	147	34	0	NS	*	NS	NS	*	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate acid	60-100	147	48	0	*	***	NS	NS	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:carbohydrate derivative:glycoside	0-15	79	21	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate derivative:glycoside	15-30	79	14	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate derivative:glycoside	30-60	79	11	0	*	**	NS	NS	**	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: carbohydrate:carbohydrate derivative:glycoside	60-100	79	33	1	**	****	NS	***	****	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate phosphate	0-15	861	141	0	*	NS	NS	**	NS	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate phosphate	15-30	861	195	1	****	****	NS	****	****	****	-	-	-	-	-	-
+Resource Acquisition: Transport: carbohydrate:carbohydrate phosphate	30-60	861	168	1	**	***	NS	***	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:carbohydrate phosphate	60-100	861	357	1	*	****	****	****	****	*	-	-	+	+	-	-
+Resource Acquisition: Transport: carbohydrate:monosaccharide	0-15	5506	856	0	*	*	NS	NS	NS	NS	-	-	-	+	+	+
+Resource Acquisition: Transport: carbohydrate:monosaccharide	15-30	5506	782	1	***	****	NS	***	***	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: carbohydrate:monosaccharide	30-60	5506	1153	1	****	****	*	****	****	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: carbohydrate:monosaccharide	60-100	5506	2715	1	****	****	****	****	****	****	-	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:oligosaccharide	0-15	4432	593	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	+
+Resource Acquisition: Transport: carbohydrate:oligosaccharide	15-30	4432	585	0	NS	*	NS	*	**	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:oligosaccharide	30-60	4432	983	1	****	****	*	****	****	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: carbohydrate:oligosaccharide	60-100	4432	2271	1	****	****	****	****	****	****	-	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:polysaccharide	0-15	9924	1261	0	NS	**	NS	*	NS	NS	-	-	-	-	+	+
+Resource Acquisition: Transport: carbohydrate:polysaccharide	15-30	9924	1200	0	NS	***	*	**	****	NS	+	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:polysaccharide	30-60	9924	2232	1	****	****	****	****	****	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: carbohydrate:polysaccharide	60-100	9924	5231	1	****	****	****	****	****	****	+	-	+	-	-	+
+Resource Acquisition: Transport: carbohydrate:sugar alcohol	0-15	300	53	0	NS	NS	NS	NS	NS	NS	+	-	+	+	+	+
+Resource Acquisition: Transport: carbohydrate:sugar alcohol	15-30	300	29	0	NS	NS	NS	NS	NS	NS	-	+	-	+	+	+
+Resource Acquisition: Transport: carbohydrate:sugar alcohol	30-60	300	63	0	NS	NS	NS	NS	NS	NS	-	+	-	+	+	+
+Resource Acquisition: Transport: carbohydrate:sugar alcohol	60-100	300	155	0	**	****	****	NS	****	**	-	-	+	-	-	+
+Resource Acquisition: Transport: carboxylate:dicarboxylate	0-15	4768	559	0	*	*	NS	NS	NS	NS	-	-	-	-	+	+
+Resource Acquisition: Transport: carboxylate:dicarboxylate	15-30	4768	720	1	***	****	NS	****	****	****	-	-	+	-	-	-
+Resource Acquisition: Transport: carboxylate:dicarboxylate	30-60	4768	996	1	***	*	NS	**	*	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: carboxylate:dicarboxylate	60-100	4768	2493	1	****	****	****	****	****	****	-	-	+	-	-	+
+Resource Acquisition: Transport: carboxylate:monocarboxylate	0-15	795	141	0	*	NS	NS	NS	NS	NS	-	-	-	-	+	-
+Resource Acquisition: Transport: carboxylate:monocarboxylate	15-30	795	162	0	NS	*	NS	NS	NS	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: carboxylate:monocarboxylate	30-60	795	168	0	NS	***	NS	**	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: carboxylate:monocarboxylate	60-100	795	324	1	**	****	****	****	****	**	-	-	+	-	-	+
+Resource Acquisition: Transport: carboxylate:tricarboxylate	0-15	4259	271	0	NS	NS	NS	NS	NS	***	-	+	+	-	+	+
+Resource Acquisition: Transport: carboxylate:tricarboxylate	15-30	4259	905	1	****	****	*	****	****	****	-	-	-	-	-	-
+Resource Acquisition: Transport: carboxylate:tricarboxylate	30-60	4259	959	1	****	****	NS	****	****	****	-	-	-	-	-	-
+Resource Acquisition: Transport: carboxylate:tricarboxylate	60-100	4259	2124	1	**	****	****	****	****	****	+	-	+	-	-	+
+Resource Acquisition: Transport: ion:inorganic	0-15	6900	1003	0	NS	*	NS	NS	**	NS	+	-	+	+	-	+
+Resource Acquisition: Transport: ion:inorganic	15-30	6900	1106	1	NS	**	NS	****	****	****	-	-	+	-	-	-
+Resource Acquisition: Transport: ion:inorganic	30-60	6900	1629	1	****	****	***	****	****	**	-	-	-	-	-	-
+Resource Acquisition: Transport: ion:inorganic	60-100	6900	3162	1	****	****	****	****	****	****	-	-	+	-	-	-
+Resource Acquisition: Transport: ion:metal	0-15	16524	2161	1	***	**	NS	****	****	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: ion:metal	15-30	16524	2803	1	****	****	NS	****	****	****	-	-	-	-	-	-
+Resource Acquisition: Transport: ion:metal	30-60	16524	3772	1	****	****	**	****	****	*	-	-	-	-	-	-
+Resource Acquisition: Transport: ion:metal	60-100	16524	7788	1	****	****	****	****	****	****	-	-	+	-	-	+
+Resource Acquisition: Transport: lipid	0-15	4694	644	0	*	*	NS	NS	*	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: lipid	15-30	4694	855	1	NS	**	*	****	****	***	-	-	+	-	-	-
+Resource Acquisition: Transport: lipid	30-60	4694	1054	1	**	**	*	***	****	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: lipid	60-100	4694	2141	1	****	****	****	****	****	NS	+	-	+	-	-	+
+Resource Acquisition: Transport: lipid (cell membrane)	0-15	830	109	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	+
+Resource Acquisition: Transport: lipid (cell membrane)	15-30	830	118	0	NS	NS	NS	NS	*	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: lipid (cell membrane)	30-60	830	195	0	NS	*	NS	*	**	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: lipid (cell membrane)	60-100	830	408	1	****	****	****	****	****	*	-	-	+	-	-	+
+Resource Acquisition: Transport: lipid precursor	0-15	1164	143	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: lipid precursor	15-30	1164	183	0	NS	NS	NS	*	NS	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: lipid precursor	30-60	1164	262	0	NS	NS	*	NS	**	NS	+	-	-	+	-	-
+Resource Acquisition: Transport: lipid precursor	60-100	1164	576	1	***	****	**	***	****	NS	-	-	+	+	-	+
+Resource Acquisition: Transport: nitrogen compound:amide	0-15	141	36	0	NS	NS	NS	NS	NS	NS	-	-	-	+	+	-
+Resource Acquisition: Transport: nitrogen compound:amide	15-30	141	34	0	NS	NS	NS	NS	NS	NS	+	+	+	+	+	+
+Resource Acquisition: Transport: nitrogen compound:amide	30-60	141	29	0	*	*	NS	**	**	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: nitrogen compound:amide	60-100	141	42	0	*	***	NS	NS	***	*	-	-	-	-	-	+
+Resource Acquisition: Transport: nitrogen compound:ammonium	0-15	1191	184	1	NS	NS	NS	***	NS	***	-	-	-	-	-	-
+Resource Acquisition: Transport: nitrogen compound:ammonium	15-30	1191	179	1	NS	NS	NS	****	****	***	-	-	+	-	-	-
+Resource Acquisition: Transport: nitrogen compound:ammonium	30-60	1191	257	1	**	***	NS	****	****	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: nitrogen compound:ammonium	60-100	1191	571	1	****	****	NS	****	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: nitrogen compound:nitrate	0-15	95	8	0	NS	NS	NS	*	*	NS	-	+	-	-	-	-
+Resource Acquisition: Transport: nitrogen compound:nitrate	15-30	95	16	0	*	NS	NS	NS	NS	NS	-	-	-	-	+	-
+Resource Acquisition: Transport: nitrogen compound:nitrate	30-60	95	24	0	NS	NS	NS	NS	NS	NS	-	+	-	-	+	-
+Resource Acquisition: Transport: nitrogen compound:nitrate	60-100	95	47	0	NS	***	****	NS	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: nitrogen compound:nitrite	0-15	115	9	0	NS	NS	NS	*	**	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: nitrogen compound:nitrite	15-30	115	18	0	*	NS	NS	NS	NS	NS	-	-	-	-	+	-
+Resource Acquisition: Transport: nitrogen compound:nitrite	30-60	115	28	0	NS	NS	NS	NS	NS	NS	-	+	-	-	-	+
+Resource Acquisition: Transport: nitrogen compound:nitrite	60-100	115	60	0	NS	****	****	**	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: nitrogen compound:nitrogen	0-15	135	11	0	NS	NS	NS	*	*	NS	-	+	-	-	-	-
+Resource Acquisition: Transport: nitrogen compound:nitrogen	15-30	135	55	0	NS	NS	NS	*	NS	*	-	-	-	-	-	-
+Resource Acquisition: Transport: nitrogen compound:nitrogen	30-60	135	34	0	NS	**	*	NS	NS	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: nitrogen compound:nitrogen	60-100	135	35	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: nitrogen compound:urea	0-15	185	23	0	NS	NS	NS	NS	NS	NS	+	-	+	-	-	+
+Resource Acquisition: Transport: nitrogen compound:urea	15-30	185	16	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: nitrogen compound:urea	30-60	185	41	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: nitrogen compound:urea	60-100	185	105	1	****	****	**	***	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: nitrogen compound:uric acid	0-15	1	1	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: nitrogen compound:uric acid	15-30	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Resource Acquisition: Transport: nitrogen compound:uric acid	30-60	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Resource Acquisition: Transport: nitrogen compound:uric acid	60-100	1	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Resource Acquisition: Transport: nucleic acid component:nucleobase	0-15	279	39	0	NS	NS	NS	NS	NS	NS	-	-	-	+	+	+
+Resource Acquisition: Transport: nucleic acid component:nucleobase	15-30	279	34	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	+
+Resource Acquisition: Transport: nucleic acid component:nucleobase	30-60	279	64	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: nucleic acid component:nucleobase	60-100	279	142	0	**	****	****	**	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: nucleic acid component:nucleoside	0-15	611	62	0	NS	NS	NS	NS	*	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: nucleic acid component:nucleoside	15-30	611	115	1	**	NS	*	***	NS	**	-	-	-	-	-	-
+Resource Acquisition: Transport: nucleic acid component:nucleoside	30-60	611	139	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: nucleic acid component:nucleoside	60-100	611	295	0	NS	****	****	NS	****	***	-	-	+	-	-	+
+Resource Acquisition: Transport: nucleic acid component:nucleotide	0-15	954	127	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: nucleic acid component:nucleotide	15-30	954	105	0	NS	*	NS	*	*	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: nucleic acid component:nucleotide	30-60	954	237	0	NS	NS	NS	NS	NS	NS	+	-	-	-	-	-
+Resource Acquisition: Transport: nucleic acid component:nucleotide	60-100	954	485	0	**	****	****	*	****	*	-	-	+	-	-	+
+Resource Acquisition: Transport: nucleic acid component:ribonucleoside	0-15	75	8	0	NS	NS	NS	**	*	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: nucleic acid component:ribonucleoside	15-30	75	34	1	**	*	NS	***	NS	***	-	-	-	-	-	-
+Resource Acquisition: Transport: nucleic acid component:ribonucleoside	30-60	75	14	0	NS	NS	NS	NS	NS	NS	+	+	+	-	-	-
+Resource Acquisition: Transport: nucleic acid component:ribonucleoside	60-100	75	19	0	NS	NS	NS	NS	NS	NS	-	+	+	-	+	-
+Resource Acquisition: Transport: organophosphorus compound	0-15	3443	443	0	*	NS	NS	**	*	NS	-	+	-	-	-	-
+Resource Acquisition: Transport: organophosphorus compound	15-30	3443	618	1	*	*	NS	****	****	****	-	-	-	-	-	-
+Resource Acquisition: Transport: organophosphorus compound	30-60	3443	836	1	****	****	NS	****	****	*	-	-	+	-	-	-
+Resource Acquisition: Transport: organophosphorus compound	60-100	3443	1546	1	****	****	****	****	****	**	-	-	+	-	-	+
+Resource Acquisition: Transport: other	0-15	144	10	0	NS	NS	NS	NS	NS	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: other	15-30	144	34	0	NS	NS	NS	**	*	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: other	30-60	144	35	0	NS	NS	NS	NS	NS	NS	-	-	+	+	-	+
+Resource Acquisition: Transport: other	60-100	144	65	0	NS	NS	*	NS	NS	NS	+	-	+	+	-	-
+Resource Acquisition: Transport: peptide	0-15	5189	576	0	NS	*	NS	NS	**	***	+	-	+	+	-	+
+Resource Acquisition: Transport: peptide	15-30	5189	563	0	NS	**	**	*	**	NS	+	-	+	-	-	-
+Resource Acquisition: Transport: peptide	30-60	5189	1181	1	**	NS	***	***	**	NS	-	-	-	+	-	-
+Resource Acquisition: Transport: peptide	60-100	5189	2869	1	****	****	****	****	****	NS	-	-	+	-	-	+
+Resource Acquisition: Transport: secondary metabolite:siderophore	0-15	2651	386	1	****	*	***	****	**	*	-	-	-	-	-	-
+Resource Acquisition: Transport: secondary metabolite:siderophore	15-30	2651	458	1	****	****	NS	****	****	***	-	-	-	-	-	-
+Resource Acquisition: Transport: secondary metabolite:siderophore	30-60	2651	642	1	***	****	NS	****	****	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: secondary metabolite:siderophore	60-100	2651	1165	1	****	****	****	****	****	***	+	-	+	-	-	+
+Resource Acquisition: Transport: sulfur compound	0-15	1021	163	0	NS	NS	NS	NS	NS	NS	-	-	+	-	-	-
+Resource Acquisition: Transport: sulfur compound	15-30	1021	145	0	NS	NS	NS	**	**	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: sulfur compound	30-60	1021	239	0	NS	NS	*	*	*	NS	-	-	-	-	-	-
+Resource Acquisition: Transport: sulfur compound	60-100	1021	474	1	***	****	NS	*	****	**	-	-	+	-	-	+
+Resource Acquisition: Transport: vitamin:vitamin B	0-15	6648	676	0	*	NS	NS	NS	NS	NS	-	-	-	+	-	-
+Resource Acquisition: Transport: vitamin:vitamin B	15-30	6648	912	1	*	**	NS	****	***	****	-	-	+	-	-	-
+Resource Acquisition: Transport: vitamin:vitamin B	30-60	6648	1375	1	****	****	**	****	****	NS	-	-	-	-	-	+
+Resource Acquisition: Transport: vitamin:vitamin B	60-100	6648	3685	1	****	****	****	****	****	**	-	-	+	-	-	-
+Resource Acquisition: Transport: vitamin:vitamin C	0-15	10	2	0	NS	NS	NS	NS	NS	*	-	+	-	-	+	-
+Resource Acquisition: Transport: vitamin:vitamin C	15-30	10	3	0	NS	NS	*	NS	NS	NS	+	-	+	-	-	+
+Resource Acquisition: Transport: vitamin:vitamin C	30-60	10	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Resource Acquisition: Transport: vitamin:vitamin C	60-100	10	5	0	NS	*	**	**	**	NS	-	-	+	-	-	-
+Stress Tolerance: Biofilm Formation	0-15	1464	159	1	**	NS	*	****	***	*	-	+	-	-	-	-
+Stress Tolerance: Biofilm Formation	15-30	1464	372	1	****	NS	*	****	*	****	-	-	-	-	-	-
+Stress Tolerance: Biofilm Formation	30-60	1464	318	1	****	****	*	****	****	NS	-	-	+	-	-	+
+Stress Tolerance: Biofilm Formation	60-100	1464	615	1	NS	****	****	****	****	NS	-	-	+	-	-	-
+Stress Tolerance: Osmoprotection	0-15	2516	404	0	NS	NS	NS	NS	NS	NS	-	+	-	+	+	-
+Stress Tolerance: Osmoprotection	15-30	2516	342	0	NS	**	NS	**	**	NS	-	-	+	-	-	-
+Stress Tolerance: Osmoprotection	30-60	2516	543	1	**	***	NS	****	****	NS	-	-	-	-	-	-
+Stress Tolerance: Osmoprotection	60-100	2516	1227	1	****	****	****	****	****	****	-	-	+	-	-	-
+Substrate Assimilation: ammonia assimilation to aspartate	0-15	5509	786	1	***	*	*	***	*	NS	-	-	-	-	-	-
+Substrate Assimilation: ammonia assimilation to aspartate	15-30	5509	898	1	***	****	NS	****	****	****	-	-	+	-	-	-
+Substrate Assimilation: ammonia assimilation to aspartate	30-60	5509	1254	1	****	****	*	****	****	NS	-	-	+	-	-	+
+Substrate Assimilation: ammonia assimilation to aspartate	60-100	5509	2571	1	****	****	****	****	****	*	-	-	+	-	-	+
+Substrate Assimilation: ammonia assimilation to glutamate-GDH	0-15	2301	321	0	NS	NS	NS	NS	*	NS	-	-	-	+	-	+
+Substrate Assimilation: ammonia assimilation to glutamate-GDH	15-30	2301	391	1	NS	*	NS	***	****	NS	-	-	+	-	-	-
+Substrate Assimilation: ammonia assimilation to glutamate-GDH	30-60	2301	572	1	NS	NS	*	***	****	NS	-	-	-	-	-	+
+Substrate Assimilation: ammonia assimilation to glutamate-GDH	60-100	2301	1017	1	****	****	**	****	****	NS	-	-	+	-	-	-
+Substrate Assimilation: ammonia assimilation to glutamate-GS	0-15	2913	421	0	NS	NS	NS	NS	NS	NS	-	-	-	+	+	-
+Substrate Assimilation: ammonia assimilation to glutamate-GS	15-30	2913	426	0	**	NS	**	**	****	NS	+	-	+	-	-	-
+Substrate Assimilation: ammonia assimilation to glutamate-GS	30-60	2913	676	0	NS	NS	NS	*	***	NS	+	-	+	-	-	-
+Substrate Assimilation: ammonia assimilation to glutamate-GS	60-100	2913	1390	1	****	****	**	****	****	NS	-	-	+	-	-	+
+Substrate Assimilation: ammonia assimilation to glutamate-GS_GOGAT	0-15	27	1	0	NS	NS	NS	NS	NS	NS	+	-	+	+	-	+
+Substrate Assimilation: ammonia assimilation to glutamate-GS_GOGAT	15-30	27	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Substrate Assimilation: ammonia assimilation to glutamate-GS_GOGAT	30-60	27	7	0	NS	NS	NS	NS	NS	NS	+	+	-	-	-	-
+Substrate Assimilation: ammonia assimilation to glutamate-GS_GOGAT	60-100	27	19	0	NS	NS	NS	NS	***	**	+	-	+	+	-	+
+Substrate Assimilation: Assimilatory nitrate Reduction	0-15	1775	291	0	**	*	NS	NS	NS	NS	-	-	-	-	-	-
+Substrate Assimilation: Assimilatory nitrate Reduction	15-30	1775	270	0	NS	NS	NS	NS	NS	NS	+	-	+	-	-	+
+Substrate Assimilation: Assimilatory nitrate Reduction	30-60	1775	356	0	NS	*	NS	NS	**	NS	-	-	+	+	-	-
+Substrate Assimilation: Assimilatory nitrate Reduction	60-100	1775	858	1	****	****	****	****	****	*	-	-	+	-	-	-
+Substrate Assimilation: Assimilatory sulfate Reduction	0-15	343	69	0	NS	NS	**	*	NS	***	-	+	-	-	+	-
+Substrate Assimilation: Assimilatory sulfate Reduction	15-30	343	67	1	NS	NS	NS	***	NS	**	+	+	+	-	-	-
+Substrate Assimilation: Assimilatory sulfate Reduction	30-60	343	73	1	NS	*	NS	****	****	NS	-	-	-	-	-	-
+Substrate Assimilation: Assimilatory sulfate Reduction	60-100	343	134	1	**	****	NS	****	****	NS	-	-	+	-	-	-
+Substrate Assimilation: nitrogen Fixation	0-15	471	75	0	NS	NS	NS	NS	NS	NS	-	-	-	+	-	-
+Substrate Assimilation: nitrogen Fixation	15-30	471	85	0	NS	*	NS	NS	**	NS	-	-	-	-	-	-
+Substrate Assimilation: nitrogen Fixation	30-60	471	112	0	NS	**	NS	*	**	NS	-	-	-	-	-	-
+Substrate Assimilation: nitrogen Fixation	60-100	471	199	0	**	****	*	*	****	NS	-	-	+	-	-	+
